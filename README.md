@@ -1,2 +1,2 @@
 # Bootstrap-project
-This is the progject i attempted while on a bootcamp course 
+This is the project i attempted while on a bootcamp course 
